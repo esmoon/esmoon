@@ -9,7 +9,7 @@
 * JavaScript
 * HTML/CSS
 
-📫 Связаться со мной: [telegram](https://tttttt.me/es_moon), [мой сайт-портфолио](https://esmoon666.github.io/portfolio-website)
+📫 Связаться со мной: [telegram](https://tttttt.me/es_moon), [мой сайт-портфолио](https://esmoon.github.io/portfolio-website)
 
 <!--
 **esmoon666/esmoon666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
