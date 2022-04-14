@@ -1,7 +1,18 @@
-### Hi there 👋
+### Здравствуй <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>
+
+### Меня зовут Артем, я фронтенд-разработчик
+
+**Мой технологический стэк:**
+* React
+* Redux
+* Typescript
+* JavaScript
+* HTML/CSS
+
+📫 Связаться со мной: [telegram](https://tttttt.me/es_moon), [мой сайт-портфолио](https://esmoon666.github.io/portfolio-website)
 
 <!--
-**esmoon/esmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**esmoon666/esmoon666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
